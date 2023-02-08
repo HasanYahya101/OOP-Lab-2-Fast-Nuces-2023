@@ -29,8 +29,7 @@ Also, check if the matrix is a Square.
 
 Given three sets of equal length, compute their intersections and store the results in a 2D array. 
 Ensure that no row has any empty cells.  
+  
 
-## Note:
-
-**_>>Remenber that the Solutions are not the most optimal way to solve such Questions. You can use the code however you like._**
+**_>>Remember that the Solutions are not the most optimal way to solve such Questions. You can use the code however you like._**
 
