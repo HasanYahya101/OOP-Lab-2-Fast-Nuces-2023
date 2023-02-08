@@ -32,5 +32,5 @@ Ensure that no row has any empty cells.
 
 <br>
 
-**Note: **_Remember that the Solutions are not the most optimal way to solve such Questions. You can use the code however you like._
+**Note: ** _Remember that the Solutions are not the most optimal way to solve such Questions. You can use the code however you like._
 
