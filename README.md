@@ -28,7 +28,8 @@ Also, check if the matrix is a Square.
 ## Problem 5: [Intersection of 3 Sets](https://github.com/HasanYahya101/OOP-Lab-2-Fast-Nuces-2023/blob/main/l227971_q5_lab2.cpp)
 
 Given three sets of equal length, compute their intersections and store the results in a 2D array. 
-Ensure that no row has any empty cells.
+Ensure that no row has any empty cells.  
+
 
 
 **_>>Remenber that the Solutions are not the most optimal way to solve such Questions. You can use the code however you like._**
