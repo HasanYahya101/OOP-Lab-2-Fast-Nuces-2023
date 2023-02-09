@@ -6,8 +6,8 @@ _>>This repository contains solutions to five programming problems related to po
 
 **Implement two functions to perform array operations:**
 
-- _**copyArray(int* arr, int *&arr1, int size)**_ to copy arr into arr1.
-- _**reduceArray(int *arr, int *&arr1, int size)**_ to reduce the size of array by removing elements from start and copying remaining elements into arr1.
+- **copyArray(int* arr, int *&arr1, int size)** to copy arr into arr1.
+- **reduceArray(int *arr, int *&arr1, int size)** to reduce the size of array by removing elements from start and copying remaining elements into arr1.
 
 ## Problem 2: [Reverse Array](https://github.com/HasanYahya101/OOP-Lab-2-Fast-Nuces-2023/blob/main/l227971_q2_lab2.cpp)
 
