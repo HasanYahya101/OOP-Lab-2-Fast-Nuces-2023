@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-
+//it is a test file because it also, prints garbage value, check the actual question 5 cpp file.
 int* input(int n)
 {
 	int* arr = new int[n];
